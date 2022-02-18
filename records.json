@@ -1,0 +1,162 @@
+[
+  {
+    "position": "1",
+    "team": "New Zealand",
+    "rating": "17",
+    "points": "2,054",
+    "matches": "121",
+    "lastUpdate": ""
+  },
+  {
+    "position": "2",
+    "team": " England",
+    "rating": "32",
+    "points": "3,793",
+    "matches": "119",
+    "lastUpdate": ""
+  },
+  {
+    "position": "3",
+    "team": " Australia",
+    "rating": "28",
+    "points": "3,244",
+    "matches": "116",
+    "lastUpdate": ""
+  },
+  {
+    "position": "4",
+    "team": " India",
+    "rating": "38",
+    "points": "4,162",
+    "matches": "110",
+    "lastUpdate": ""
+  },
+  {
+    "position": "5",
+    "team": " South Africa",
+    "rating": "28",
+    "points": "2,943",
+    "matches": "105",
+    "lastUpdate": ""
+  },
+  {
+    "position": "6",
+    "team": " Pakistan",
+    "rating": "27",
+    "points": "2,524",
+    "matches": "93",
+    "lastUpdate": ""
+  },
+  {
+    "position": "7",
+    "team": " Bangladesh",
+    "rating": "30",
+    "points": "2,740",
+    "matches": "91",
+    "lastUpdate": ""
+  },
+  {
+    "position": "8",
+    "team": " Sri Lanka",
+    "rating": "35",
+    "points": "2,835",
+    "matches": "81",
+    "lastUpdate": ""
+  },
+  {
+    "position": "9",
+    "team": " West Indies",
+    "rating": "36",
+    "points": "2,788",
+    "matches": "77",
+    "lastUpdate": ""
+  },
+  {
+    "position": "10",
+    "team": " Afghanistan",
+    "rating": "20",
+    "points": "1,336",
+    "matches": "67",
+    "lastUpdate": ""
+  },
+  {
+    "position": "11",
+    "team": " Ireland",
+    "rating": "28",
+    "points": "1,445",
+    "matches": "52",
+    "lastUpdate": ""
+  },
+  {
+    "position": "12",
+    "team": " Scotland",
+    "rating": "10",
+    "points": "452",
+    "matches": "45",
+    "lastUpdate": ""
+  },
+  {
+    "position": "13",
+    "team": " Zimbabwe",
+    "rating": "23",
+    "points": "951",
+    "matches": "41",
+    "lastUpdate": ""
+  },
+  {
+    "position": "14",
+    "team": " Netherlands",
+    "rating": "10",
+    "points": "378",
+    "matches": "38",
+    "lastUpdate": ""
+  },
+  {
+    "position": "15",
+    "team": " UAE",
+    "rating": "12",
+    "points": "386",
+    "matches": "32",
+    "lastUpdate": ""
+  },
+  {
+    "position": "16",
+    "team": " Nepal",
+    "rating": "11",
+    "points": "330",
+    "matches": "30",
+    "lastUpdate": ""
+  },
+  {
+    "position": "17",
+    "team": " Oman",
+    "rating": "19",
+    "points": "547",
+    "matches": "29",
+    "lastUpdate": ""
+  },
+  {
+    "position": "18",
+    "team": " Namibia",
+    "rating": "8",
+    "points": "167",
+    "matches": "21",
+    "lastUpdate": ""
+  },
+  {
+    "position": "19",
+    "team": " United States",
+    "rating": "14",
+    "points": "232",
+    "matches": "17",
+    "lastUpdate": ""
+  },
+  {
+    "position": "20",
+    "team": " Papua New Guinea",
+    "rating": "13",
+    "points": "0",
+    "matches": "0",
+    "lastUpdate": ""
+  }
+]
